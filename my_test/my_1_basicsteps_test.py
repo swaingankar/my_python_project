@@ -11,7 +11,7 @@ def test_new_success():
 
 def test_failure():
     """this test fails"""
-    assert True
+    assert False
 
 
 def test_skip():
