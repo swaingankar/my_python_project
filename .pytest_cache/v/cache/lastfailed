@@ -1,6 +1,0 @@
-{
-  "my_test.py::test_open_url_fail": true,
-  "my_test/my_0_test.py::test_open_url_fail": true,
-  "my_test/my_1_test.py::test_assert_fail": true,
-  "my_test/my_test.py::test_open_url_fail": true
-}

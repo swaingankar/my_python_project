@@ -1,7 +1,0 @@
-[
-  "my_test/my_0_test.py::test_open_url",
-  "my_test/my_0_test.py::test_open_url_fail",
-  "my_test/my_0_test.py::test_close_browser",
-  "my_test/my_1_test.py::test_assert_fail",
-  "my_test/my_1_test.py::test_assert_pass"
-]
