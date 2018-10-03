@@ -9,6 +9,12 @@ def test_open_url():
 
 	assert browser.current_url == url
 
+def test_open_url_fail():
+	url = "http://blazedemo.com/"
+	browser.get(url)
+
+	assert browser.current_url != url
+
 def test_close_browser():
-	browser.close()
+	assert browser.close()
 	browser.quit()
