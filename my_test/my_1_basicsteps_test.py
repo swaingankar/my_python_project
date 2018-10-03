@@ -20,4 +20,4 @@ def test_skip():
 
 
 def test_broken():
-    raise ('exception occurred, oops again')
+    raise TypeError('exception occurred, oops again')
