@@ -6,7 +6,7 @@ def test_success():
 
 def test_new_success():
     """this test succeeds"""
-    assert False
+    assert True
 
 def test_new_success_1():
     """this test succeeds"""
@@ -25,3 +25,4 @@ def test_skip():
 
 def test_broken():
     raise TypeError('exception occurred, oops again')
+
