@@ -6,6 +6,10 @@ def test_success():
 
 def test_new_success():
     """this test succeeds"""
+    assert False
+
+def test_new_success_1():
+    """this test succeeds"""
     assert True
 
 
