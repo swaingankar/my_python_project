@@ -22,6 +22,9 @@ def test_skip():
     """this test is skipped"""
     pytest.skip('for a reason!')
 
+def test_skip_1():
+    """this test is skipped"""
+    pytest.skip('without a reason!')
 
 def test_broken():
     raise TypeError('pia is great , oops again')
