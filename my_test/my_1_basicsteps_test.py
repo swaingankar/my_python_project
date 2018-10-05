@@ -24,5 +24,5 @@ def test_skip():
 
 
 def test_broken():
-    raise TypeError('exception occurred, oops again')
+    raise TypeError('pia is great , oops again')
 
