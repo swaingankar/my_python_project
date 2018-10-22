@@ -1,8 +1,13 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
-browser = webdriver.Chrome()
-#testing changes
+chrome_options = Options()
+chrome_options.headless = True
+
+browser = webdriver.Chrome(options=chrome_options)
+# browser = webdriver.Chrome()
+
 def test_open_url():
 	url = "http://blazedemo.com/"
 	browser.get(url)

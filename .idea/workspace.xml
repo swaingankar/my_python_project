@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1df246a-f68a-4a19-b461-3d872b3f6f9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_test/Check_subfolders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSC01076.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSC01077.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saee Resume_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_python_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_python_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_test/Filedialog.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/Filedialog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test/f_hashfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/f_hashfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test/my_0_browsercheck_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/my_0_browsercheck_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,48 +20,87 @@
     <session id="930385373">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1147" />
+          <entry key="Filedialog" value="216" />
+          <entry key="Python Console" value="107" />
+          <entry key="py" value="3999" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="1147" />
+          <entry key="Python" value="4322" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="12" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_test/Filedialog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+            <state relative-caret-position="187">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+                <marker date="1539767324370" expanded="true" signature="206:207" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/genericpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_test/my_0_browsercheck_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_test/my_1_basicsteps_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -68,15 +108,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_test/Check_subfolders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="255">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_test/f_hashfile.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -91,12 +126,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/my_test/Filedialog.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/my_test/Check_subfolders.py" />
         <option value="$PROJECT_DIR$/my_test/f_hashfile.txt" />
+        <option value="$PROJECT_DIR$/my_test/test.py" />
         <option value="$PROJECT_DIR$/my_test/Filedialog.py" />
+        <option value="$PROJECT_DIR$/../WCT_python_project/Automation_master/automated/common/safehand_admin/login/test_safehand_admin_login.py" />
+        <option value="$PROJECT_DIR$/my_test/my_0_browsercheck_test.py" />
+        <option value="$PROJECT_DIR$/../WCT_python_project/test_suit/functional/automated/common/safehand_admin/login/test_safehand_admin_login.py" />
       </list>
     </option>
   </component>
@@ -106,9 +148,38 @@
     <option name="width" value="1890" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Buildout</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -117,22 +188,82 @@
           <expand>
             <path>
               <item name="my_python_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_python_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_python_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_python_project" type="462c0819:PsiDirectoryNode" />
-              <item name="my_test" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="my_test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="functional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="functional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="automated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="functional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="automated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="functional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="automated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="safehand_admin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my_python_project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Sachin\Desktop\GIT\my_git_python\WCT_python_project" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test_suit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="functional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="automated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="safehand_admin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="login" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WCT_python_project" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Filedialog">
+  <component name="RunManager">
     <configuration name="Check_subfolders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +303,9 @@
       <module name="my_python_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\Sachin\AppData\Local\Programs\Python\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -207,13 +341,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Sachin\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Filedialog" />
       <item itemvalue="Python.Check_subfolders" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Filedialog" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Check_subfolders" />
       </list>
     </recent_temporary>
@@ -242,22 +399,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23809524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32750398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991454" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841017" visible="true" weight="0.34341636" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.42348754" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.31623933" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34163702" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50158983" side_tool="true" weight="0.34341636" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960968" weight="0.6494662" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,11 +422,54 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_test/test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_test/test.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../WCT_python_project/test_suit/functional/automated/common/safehand_admin/login/test_safehand_admin_login.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="filename" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my_test/Check_subfolders.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="9333">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WCT_python_project/Automation_master/automated/common/safehand_admin/login/portal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WCT_python_project/Automation_master/automated/common/safehand_admin/login/test_safehand_admin_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -279,13 +478,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_test/Filedialog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        <state relative-caret-position="187">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+            <marker date="1539767324370" expanded="true" signature="206:207" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test/my_0_browsercheck_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test/Check_subfolders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WCT_python_project/test_suit/functional/automated/common/safehand_admin/login/portal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WCT_python_project/test_suit/functional/automated/common/safehand_admin/login/test_safehand_admin_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test/my_1_basicsteps_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
